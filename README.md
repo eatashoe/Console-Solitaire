@@ -7,15 +7,15 @@
 > -------------To play run the Stackotaire file.
 >
 # --------------How To Play------------------
-[F1][F2][F3][F4]     W1 [  ]    [XX] 24
-
-T7 [XX][XX][XX][XX][XX][XX][7♠]
-T6 [XX][XX][XX][XX][XX][3♦]
-T5 [XX][XX][XX][XX][A♣]
-T4 [XX][XX][XX][A♥]
-T3 [XX][XX][8♥]
-T2 [XX][2♦]
-T1 [2♥]
+>[F1][F2][F3][F4]     W1 [  ]    [XX] 24
+>
+>T7 [XX][XX][XX][XX][XX][XX][7♠]
+>T6 [XX][XX][XX][XX][XX][3♦]
+>T5 [XX][XX][XX][XX][A♣]
+>T4 [XX][XX][XX][A♥]
+>T3 [XX][XX][8♥]
+>T2 [XX][2♦]
+>T1 [2♥]
 >
 > This is a example of a game
 > T1 - T7 are the Tableau
