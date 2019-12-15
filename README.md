@@ -7,6 +7,8 @@
 > -------------To play run the Stackotaire file.
 >
 # --------------How To Play------------------
+
+## This is a example of a game
 ```
 >[F1][F2][F3][F4]     W1 [  ]    [XX] 24
 >
@@ -19,9 +21,10 @@
 >T1 [2♥]
 ```
 
-## This is a example of a game
 T1 - T7 are the Tableau
+
 F1 - F4 are the Foundation
+
 W1 is the Stock
 
 ##--Controls-- (All lower case)
