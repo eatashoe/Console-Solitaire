@@ -1,8 +1,4 @@
 /**
- * Id: 111930041
- * Email: winston.gong@stonybrook.edu
- * hw #3
- * CSE 214, Section 01, TA: Jamie Kunzmann
  * 3/10/2019
  *
  * This class is used to create a CardStack which is a stack of Cards that has 4 different types.
