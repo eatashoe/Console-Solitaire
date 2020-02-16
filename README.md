@@ -5,8 +5,7 @@ Same rules are orignial Solitaire
 
 Alternating colors etc...
 
-
-> -------------To play run the Stackotaire file.--------------
+To play run and compile the Stackotaire file in a terminal or ide.
 
 # --------------How To Play------------------
 
@@ -49,7 +48,7 @@ This will move 3 cards from T1 to F1 .
 
 >restart :  
 
-Restarts the game if you stuck to a new game.  
+Restarts the game if you get stuck.  
 
 >quit : 
 
